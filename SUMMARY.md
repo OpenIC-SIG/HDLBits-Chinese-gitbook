@@ -9,7 +9,7 @@
 
 ## 2 Verilog Language
 
-### 2.1 Basic
+## 2.1 Basic
 
 * [Problem 3](problem-3.md)
 * [Problem 4](problem-4.md)
