@@ -1,6 +1,7 @@
-# Table of contents
+# Summary
 
 * [Introduction](README.md)
+* [Translator & Editor Introduction](translator-and-editor-introduction.md)
 * [1 Getting Started](1-getting-started-1/README.md)
   * [Problem 1](1-getting-started-1/problem-1.md)
   * [Problem 2](1-getting-started-1/problem-2.md)
