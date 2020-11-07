@@ -9,8 +9,7 @@
 ### **解答与分析**
 
 ```Verilog
-module
-top_module
+module top_module
 (
     output zero
 );
