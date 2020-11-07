@@ -8,16 +8,15 @@
 >
 > ### How to use HDLBits
 >
-> 1.  Choose a problem: 
+> 1. Choose a problem: 
 >    [**Browse the problem set**](https://hdlbits.01xz.net/wiki/Problem_sets)
->     or 
+>    or 
 >    [**go to the first problem**](https://hdlbits.01xz.net/wiki/step_one)
-> 2.  Write a solution in Verilog
-> 3.  Submit, simulate, and debug if necessary
+> 2. Write a solution in Verilog
+> 3. Submit, simulate, and debug if necessary
 >
 > If you want to [**track your progress**](https://hdlbits.01xz.net/wiki/Special:VlgStats/Me) or move to another browser, [**create a username and password**](https://hdlbits.01xz.net/wiki/Special:VlgProfile) so you can [**log in**](https://hdlbits.01xz.net/wiki/Special:VlgLogin) from elsewhere.
 >
->   
 >
 >
 > ### Which exercises should I do?
@@ -25,8 +24,6 @@
 > The exercises are organized by topic and by approximately difficulty within each topic. Start first with the "Getting Started" section to get familiar with how to use HDLBits. Then start with the easier problems of each topic, and not in a strict top-to-bottom order. The "Verilog Language" section focuses more on using the Verilog syntax and language features, while the "Circuits" section focuses more on using Verilog to create circuits, so problems from these two categories should be done concurrently \(practicing new language features while the circuits you create become more complex\).
 >
 > ## Topics
->
->
 >
 > [![](https://hdlbits.01xz.net/mw/images/8/84/Logo_hdlbits.png "Logo hdlbits.png")](https://hdlbits.01xz.net/wiki/Problem_sets#Getting_Started)
 >
