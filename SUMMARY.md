@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [HDLBits-Chiness Introduction](translator-and-editor-introduction.md)
+* [HDLBits-Chinese Introduction](translator-and-editor-introduction.md)
 * [1 Getting Started](1-getting-started-1/README.md)
   * [Problem 0 : Step one](1-getting-started-1/problem-1.md)
   * [Problem 1 : Zero](1-getting-started-1/problem-2.md)
