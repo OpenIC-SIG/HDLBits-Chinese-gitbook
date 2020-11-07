@@ -54,7 +54,7 @@ HDLBits 还提供了类似上图中，在线执行 c 语言代码的功能，可
 
 [HDLBits 中文导学​](https://zhuanlan.zhihu.com/c_1131528588117385216)
 
-[zhuanlan.zhihu.com![](https://pic3.zhimg.com/v2-603d8aa93f246d04118ba57c1834c1c6_ipico.jpg "图标")](https://zhuanlan.zhihu.com/c_1131528588117385216)
+[zhuanlan.zhihu.com](https://zhuanlan.zhihu.com/c_1131528588117385216)
 
 作者: ljgibbslf@zhihu
 
