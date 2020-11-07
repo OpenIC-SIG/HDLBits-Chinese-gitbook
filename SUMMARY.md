@@ -9,5 +9,5 @@
   * [2.1 Basic](2-verilog-language-1/2.1-basic-1/README.md)
     * [Problem 2 : Wire](1-getting-started-1/p.md)
     * [Problem 3 : Wire4](2-verilog-language-1/2.1-basic-1/problem-4.md)
-    * [Problem 3](2-verilog-language-1/2.1-basic-1/problem-3.md)
+    * [Problem 4 : Notgate](2-verilog-language-1/2.1-basic-1/problem-3.md)
 
