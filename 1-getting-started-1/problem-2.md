@@ -8,7 +8,7 @@
 
 ### **解答与分析**
 
-```verilog
+```Verilog
 module top_module
 (
     output zero
