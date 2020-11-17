@@ -27,7 +27,7 @@
 
 ### **解答与分析**
 
-```
+```Verilog
 module top_module (
 	input a,
 	input b,

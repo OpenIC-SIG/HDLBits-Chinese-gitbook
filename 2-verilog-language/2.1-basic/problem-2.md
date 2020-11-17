@@ -24,7 +24,7 @@ _图片来自 HDLBits_
 
 ### **解答与分析**
 
-```
+```Verilog
 module top_module( input in, output out );
 	assign out = in;
 // Note that wires are directional, so "assign in = out" is not equivalent.

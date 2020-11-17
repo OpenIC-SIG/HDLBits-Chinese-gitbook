@@ -10,7 +10,7 @@
 
 ### **解答与分析**
 
-```
+```Verilog
 module top_module (
 	assign	out = ~ in;
 endmodule
