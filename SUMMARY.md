@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [HDLBits-Chinese Introduction](translator-and-editor-introduction.md)
+* [Contribution List](contribution-list.md)
 * [1 Getting Started](1-getting-started-1/README.md)
   * [Problem 0 : Step one](1-getting-started-1/problem-1.md)
   * [Problem 1 : Zero](1-getting-started-1/problem-2.md)
@@ -10,4 +11,7 @@
     * [Problem 2 : Wire](1-getting-started-1/p.md)
     * [Problem 3 : Wire4](2-verilog-language-1/2.1-basic-1/problem-4.md)
     * [Problem 4 : Notgate](2-verilog-language-1/2.1-basic-1/problem-3.md)
+  * [2.2 ](2-verilog-language-1/2.1-basic-1/22.md)
+  * [p5](2-verilog-language-1/2.1-basic-1/p5.md)
+  * 2.3
 
